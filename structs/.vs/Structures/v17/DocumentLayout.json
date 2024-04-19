@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DF1D92-9189-426B-96F9-5AD41C1D970F}|Structures\\Structures.csproj|c:\\users\\admin\\desktop\\structures\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DF1D92-9189-426B-96F9-5AD41C1D970F}|Structures\\Structures.csproj|solutionrelative:structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Structures\\Structures\\Program.cs",
+              "RelativeDocumentMoniker": "Structures\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Structures\\Structures\\Program.cs",
+              "RelativeToolTip": "Structures\\Program.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAswDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:55:26.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
